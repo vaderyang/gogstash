@@ -1,0 +1,6 @@
+{
+	"output": [{
+		"type": "file",
+		"path": "/tmp/log/syslog/test"
+	}]
+}
